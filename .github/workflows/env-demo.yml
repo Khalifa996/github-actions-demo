@@ -1,6 +1,6 @@
 name: Environment Variable Demo
 
-on [push]
+on: [push]
 env:
   GREETING: "Hello"
 
